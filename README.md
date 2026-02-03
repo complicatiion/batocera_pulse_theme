@@ -136,7 +136,7 @@ On very old GPUs, disable transitions for max smoothness.
 
 
 
-#### Batocera Pulse Theme by sksdesign
+#### Batocera Pulse Theme by complicatiion aka sksdesign
 
 https://github.com/complicatiion
 
@@ -159,7 +159,7 @@ Icons and Images personalized in Photoshop
 
 
 
-#### LICENSE CC BY-NC-SA 4.0 SMD \& sksdesign ©
+#### LICENSE CC BY-NC-SA 4.0 SMD \& complicatiion aka sksdesign ©
 
 You are free to:
 Share — copy and redistribute the material in any medium or format
