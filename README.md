@@ -138,7 +138,7 @@ On very old GPUs, disable transitions for max smoothness.
 
 #### Batocera Pulse Theme by sksdesign
 
-https://github.com/sksdesignde
+https://github.com/complicatiion
 
 
 
