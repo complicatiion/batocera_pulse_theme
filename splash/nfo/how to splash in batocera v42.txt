@@ -1,0 +1,5 @@
+Early Boot Logo: /usr/share/batocera/splash/boot-logo.png (PNG-only)
+
+User Splash (Video/PNG): /userdata/splash/ (MP4 hat Priorität, wenn verfügbar)
+
+ES “Parsing games”-Logo: /usr/share/emulationstation/resources/logo.png
