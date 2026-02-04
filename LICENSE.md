@@ -5,7 +5,7 @@ Pulse Theme Copyright (c) 2026 complicatiion | sksdesign | sven404
 Original ES-A-StarWars-Theme by: soaremicheledavid aka SMD
 
 ## 1. Ownership & Copyright
-All wallpapers and various graphical assets in this repository were created by **complicatiion | sven404 | sksdesign**. The author retains all moral and intellectual property rights to these original works.
+All wallpapers and various graphical assets in this repository were created by **complicatiion | sksdesign | sven404**. The author retains all moral and intellectual property rights to these original works.
 Assets used from ES-A-StarWars-Theme belongs to soaremicheledavid aka SMD.
 Additional assets such as various fonts and logos are owned by Google and Wikimedia and are available for free use.
 
@@ -35,6 +35,7 @@ To the maximum extent permitted by applicable law, the Software and any related 
 In no event shall the author or copyright holder be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, or use, whether in an action in contract, tort (including negligence), strict liability, or otherwise, arising out of or in any way connected with the use of or inability to use the Software, even if advised of the possibility of such damages.
 
 Where liability cannot be excluded or limited under applicable law, the author’s aggregate liability arising out of or in connection with the Software shall be limited to the amount, if any, actually paid by you for the license to use the Software.
+
 
 
 
