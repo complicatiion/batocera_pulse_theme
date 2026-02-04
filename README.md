@@ -107,14 +107,14 @@ The file can be renamed if desired, such as gamelist.png files with different Co
 
 
 
-#### Aspect Ratio :
+### Aspect Ratio :
 
 * 16/9 (PC)
 * 4/3 (Handheld/Console)
 
 
 
-#### Gamelist View Style :
+### Gamelist View Style :
 
 * Basic
 * Detailed
@@ -122,13 +122,13 @@ The file can be renamed if desired, such as gamelist.png files with different Co
 
 
 
-#### Backgrounds :
+### Backgrounds :
 
 10x Cusom Batocera Pulse Wallpapers (MIX 1-10)
 
 
 
-#### Notes :
+### Notes :
 
 If you’re upgrading from an older release, delete any cached theme data to avoid mixed assets.
 
@@ -136,13 +136,13 @@ On very old GPUs, disable transitions for max smoothness.
 
 
 
-#### Batocera Pulse Theme by complicatiion aka sksdesign
+### Batocera Pulse Theme by complicatiion aka sksdesign
 
 https://github.com/complicatiion
 
 
 
-#### Batocera Pulse Theme based on ES-A-StarWars-Theme by soaremicheledavid
+### Batocera Pulse Theme based on ES-A-StarWars-Theme by soaremicheledavid
 
 https://github.com/soaremicheledavid/ES-A-StarWars-Theme
 
@@ -150,7 +150,7 @@ https://github.com/soaremicheledavid/
 
 
 
-#### **Acknowledgments :**
+### **Acknowledgments :**
 
 Fonts source : https://fonts.google.com/
 Logos source : https://commons.wikimedia.org/
@@ -159,7 +159,7 @@ Icons and Images personalized in Photoshop
 
 
 
-#### LICENSE CC BY-NC-SA 4.0 SMD \& complicatiion aka sksdesign ©
+### LICENSE CC BY-NC-SA 4.0 SMD \& complicatiion aka sksdesign ©
 
 You are free to:
 Share — copy and redistribute the material in any medium or format
@@ -176,7 +176,7 @@ Disclaimer: See additional LICENSE.md
 
 
 
-#### Thanks to
+### Thanks to
 
 soaremicheledavid
 
