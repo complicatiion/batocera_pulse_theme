@@ -1,4 +1,4 @@
-# Batocera Pulse Theme (2025)
+# Batocera Pulse Theme
 
 
 
