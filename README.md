@@ -187,5 +187,5 @@ Emulation Community
 
 
 
-Enjoy the mix of minimal and playful Theme!
+### Enjoy the mix of minimal and playful Theme!
 
