@@ -25,7 +25,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 * **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ## 3. Batocera Community
-This wallpaper pack was specifically created for the **Batocera.linux community**. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
+This Theme pack was specifically created for the **Batocera.linux community**. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
 
 ## 4. Disclaimer of Warranty and Limitation of Liability
 This project is an independent creation and is **not** affiliated with, authorized, maintained, sponsored, or endorsed by the official **Batocera.linux** team or its affiliates. "Batocera" is the property of its respective trademark holders. This pack is provided "as-is" without any warranties.
@@ -35,4 +35,5 @@ To the maximum extent permitted by applicable law, the Software and any related 
 In no event shall the author or copyright holder be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, or use, whether in an action in contract, tort (including negligence), strict liability, or otherwise, arising out of or in any way connected with the use of or inability to use the Software, even if advised of the possibility of such damages.
 
 Where liability cannot be excluded or limited under applicable law, the author’s aggregate liability arising out of or in connection with the Software shall be limited to the amount, if any, actually paid by you for the license to use the Software.
+
 
