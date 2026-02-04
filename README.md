@@ -180,10 +180,11 @@ Disclaimer: See additional LICENSE.md
 
 soaremicheledavid
 
+BATOCERA Linux Developers
+
 EmulationStation DE Developers
 
-BATOCERA Linux Developers
-Emulation Community
+The whole Emulation Community
 
 
 
