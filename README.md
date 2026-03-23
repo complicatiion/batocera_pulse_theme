@@ -48,7 +48,6 @@ Enable **SSH** on your Batocera device or use the **F1 File Manager**.
 
 Copy the theme folder to:
 
-```bash
 /userdata/themes/
 
 
