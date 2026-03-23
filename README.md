@@ -1,4 +1,4 @@
-````md
+
 # Batocera Pulse Theme
 
 A playful, modern dark theme for **Batocera Linux** with a cozy visual style, colorful wallpapers, and clean UI elements designed for both readability and performance.
@@ -50,7 +50,7 @@ Copy the theme folder to:
 
 ```bash
 /userdata/themes/
-````
+
 
 Then go to:
 
@@ -180,8 +180,3 @@ See also: `LICENSE.md`
 ## Enjoy
 
 Enjoy the mix of a minimal and playful theme.
-
-```
-
-Ich kann dir daraus auch direkt noch eine **kompaktere GitHub-optimierte Version** machen, falls du es etwas cleaner und weniger textlastig willst.
-```
