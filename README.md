@@ -1,27 +1,22 @@
+````md
 # Batocera Pulse Theme
 
+A playful, modern dark theme for **Batocera Linux** with a cozy visual style, colorful wallpapers, and clean UI elements designed for both readability and performance.
 
+## Overview
 
-### Description :
+Pulse Theme gives your Batocera setup a modern and polished look while keeping navigation clear and responsive. It combines a dark aesthetic with playful icons, custom wallpapers, and multiple gamelist background styles.
 
-Pulse Theme is a playful modern dark theme for Batocera Linux
+## Features
 
-Pulse Theme brings a cozy, modern vibe to your Batocera Setup
+- Clean dark aesthetic that keeps the focus on your games
+- Playful custom icon set for added personality
+- 10 colorful wallpapers to rotate or set as your favorite
+- Readable typography and clear focus states
+- Lightweight assets for smooth performance on low-power devices
+- 6 different gamelist background PNG styles
 
-
-
-### What you'll get :
-
-* Clean, dark aesthetic that puts your games front and Center
-* Playful icon set for a touch of personality in every menu
-* 10 colorful wallpapers you can rotate or lock to your favorite
-* Snappy navigation with readable typography and clear focus states
-* Lightweight assets designed to run smoothly on low-power devices
-* 6 different Gamelist Background PNGs Styles
-
-
-
-### Previews :
+## Previews
 
 ![Preview 1](preview/preview1.jpg)
 ![Preview 2](preview/preview2.jpg)
@@ -34,159 +29,159 @@ Pulse Theme brings a cozy, modern vibe to your Batocera Setup
 ![Preview 9](preview/preview9.jpg)
 ![Preview 10](preview/preview10-theme2.jpg)
 
+## Compatibility
 
+Tested with:
 
-### Compatibility :
+- Batocera **v40**
+- Batocera **v41**
+- Batocera **v42**
 
-Tested with Batocera v40, v41, v42
+Recommended resolution:
 
-Works best at 1080p; scales fine down to 720p
+- Best experience at **1080p**
+- Scales well down to **720p**
 
+## Installation
 
-
-### Install :
-
-On your Batocera device, enable SSH or use the F1 Filemanager.
+Enable **SSH** on your Batocera device or use the **F1 File Manager**.
 
 Copy the theme folder to:
 
-
-
+```bash
 /userdata/themes/
+````
 
+Then go to:
 
+**Main Menu → UI Settings → Theme Set**
 
-In Main Menu → UI Settings → Theme Set, select batovera.
+Select **Batocera Pulse Theme**.
 
-Optional: in Theme Configuration, choose your wallpaper variant.
+Optional: Open **Theme Configuration** to choose your preferred wallpaper variant.
 
+## Customization
 
+### Wallpapers
 
-### Customize :
+You can switch between **10 wallpapers** in the theme options.
 
-Toggle between the 10 wallpapers in Theme Options.
+### Gamelist Backgrounds
 
-Toggle between the 6 Gamelist Background PNGs in Assets Folder.
+You can also choose between **6 gamelist background PNG styles** located in the `assets` folder.
 
+## Changing the Gamelist Background
 
+To use a different gamelist style, rename the desired file in `./assets` to:
 
-### Edit Gamelist PNG :
+```bash
+gamelist.png
+```
 
-rename gamelist.png in ./assets for other style version instead of main Version
+This replaces the default version with your preferred style.
 
+## `theme2.xml` Version
 
+`theme2.xml` includes a **light purple material-style accent color** instead of the default gray.
 
-### theme2.xml Version:
+You can rename and adapt files as needed, similar to the different `gamelist.png` color variants.
 
-Version 2 has a light material design purple instead of gray as the accent color in the theme.
-The file can be renamed if desired, such as gamelist.png files with different Color styles.
+## Gamelist Styles
 
+* `main` → `gamelist.png`
+* `shadow` → `gamelist_shadow.png`
+* `dark` → `gamelist_dark.png`
+* `light` → `gamelist_light.png`
+* `purple` → `gamelist_purple.png`
+* `mix` → `gamelist_mix.png`
 
+## What Has Been Changed
 
-### Gamelist Styles :
+* 10 new unique wallpapers by **sksdesign** (`MIX 1–10`)
+* New and edited ART system logos
+* New and edited theme icons
+* 6 different gamelist styles
+* Edited sound effect files
+* Adjusted layout properties
+* Additional layered PSD files
+* Overhauled main theme aesthetics
 
-* main (gamelist.png)
-* shadow (gamelist\_shadow.png)
-* dark (gamelist\_dark.png)
-* light (gamelist\_light.png)
-* purple (gamelist\_puprle.png)
-* mix (gamelist\_mix.png)
+## Supported Aspect Ratios
 
+* **16:9** (PC)
+* **4:3** (Handheld / Console)
 
-
-### What has been changed?
-
-* 10x new unique Wallpapers by sksdesign (MIX 1-10)
-* new and edited ART System Logos
-* new and edited Theme Icons
-* 6x different gamelist styles
-* edited Sound effect files
-* edited layout properties
-* additional layered PSD files
-* overhauled main theme astetic
-
-
-
-### Aspect Ratio :
-
-* 16/9 (PC)
-* 4/3 (Handheld/Console)
-
-
-
-### Gamelist View Style :
+## Supported Gamelist View Styles
 
 * Basic
 * Detailed
 * Grid
 
+## Included Backgrounds
 
+* 10 custom Batocera Pulse wallpapers (`MIX 1–10`)
 
-### Backgrounds :
+## Notes
 
-10x Cusom Batocera Pulse Wallpapers (MIX 1-10)
+* If you are upgrading from an older release, delete any cached theme data to avoid mixed assets.
+* On very old GPUs, disabling transitions may improve smoothness.
 
+## Author
 
+### Batocera Pulse Theme
 
-### Notes :
+by **complicatiion** aka **sksdesign**
 
-If you’re upgrading from an older release, delete any cached theme data to avoid mixed assets.
+GitHub:
+[https://github.com/complicatiion](https://github.com/complicatiion)
 
-On very old GPUs, disable transitions for max smoothness.
+## Based On
 
+Batocera Pulse Theme is based on **ES-A-StarWars-Theme** by **soaremicheledavid**.
 
+GitHub:
+[https://github.com/soaremicheledavid/ES-A-StarWars-Theme](https://github.com/soaremicheledavid/ES-A-StarWars-Theme)
+[https://github.com/soaremicheledavid/](https://github.com/soaremicheledavid/)
 
-### Batocera Pulse Theme by complicatiion aka sksdesign
+## Acknowledgments
 
-https://github.com/complicatiion
+* Fonts source: [https://fonts.google.com/](https://fonts.google.com/)
+* Logos source: [https://commons.wikimedia.org/](https://commons.wikimedia.org/)
+* Icons and images customized in Photoshop
 
+## License
 
-
-### Batocera Pulse Theme based on ES-A-StarWars-Theme by soaremicheledavid
-
-https://github.com/soaremicheledavid/ES-A-StarWars-Theme
-
-https://github.com/soaremicheledavid/
-
-
-
-### **Acknowledgments :**
-
-Fonts source : https://fonts.google.com/
-Logos source : https://commons.wikimedia.org/
-
-Icons and Images personalized in Photoshop
-
-
-
-### LICENSE CC BY-NC-SA 4.0 SMD \& complicatiion aka sksdesign ©
+**CC BY-NC-SA 4.0**
+SMD & complicatiion aka sksdesign ©
 
 You are free to:
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
+
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material
+
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
-Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes .
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Disclaimer: See additional LICENSE.md
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* **NonCommercial** — You may not use the material for commercial purposes.
+* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+* **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+See also: `LICENSE.md`
 
+## Special Thanks
 
-### Thanks to
+* soaremicheledavid
+* Batocera Linux Developers
+* EmulationStation DE Developers
+* The entire emulation community
 
-soaremicheledavid
+## Enjoy
 
-BATOCERA Linux Developers
+Enjoy the mix of a minimal and playful theme.
 
-EmulationStation DE Developers
+```
 
-The whole Emulation Community
-
-
-
-### Enjoy the mix of minimal and playful Theme!
-
+Ich kann dir daraus auch direkt noch eine **kompaktere GitHub-optimierte Version** machen, falls du es etwas cleaner und weniger textlastig willst.
+```
