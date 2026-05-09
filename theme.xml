@@ -15,16 +15,18 @@ Author: sksdesign and SMD
       <size>0.09 0.040</size>
       <alignment>center</alignment>
       <verticalAlignment>center</verticalAlignment>
+      <zIndex>10</zIndex>
     </text>
     <controllerActivity name="controllerActivity">
-      <pos>0.0297 0.010</pos>
-      <size>0.072 0.025</size>
-      <horizontalAlignment>right</horizontalAlignment>
+      <pos>0.110 0.010</pos>
+      <size>0.185 0.025</size>
+      <horizontalAlignment>left</horizontalAlignment>
       <itemSpacing>0.003</itemSpacing>
       <imagePath>./assets/gamepad.svg</imagePath>
       <color>ffffff</color>
       <activityColor>e0e0e0C0</activityColor>
       <hotkeyColor>ffffff</hotkeyColor>
+      <zIndex>20</zIndex>
     </controllerActivity>
     <batteryIndicator name="batteryIndicator">
          <pos>0.92 0.001</pos>
@@ -70,6 +72,10 @@ Author: sksdesign and SMD
       <color>000000a6</color> <!-- menu background overlay -->
       <cornerSize>32 32</cornerSize>
     </menuBackground>
+    <menuTextEdit name="menutextedit">
+      <inactive>./assets/search_input_dark.png</inactive>
+      <active>./assets/search_input_dark_active_v7.png</active>
+    </menuTextEdit>
   </view>
   <view name="system">
     <image name="staticBackground">
@@ -322,6 +328,5 @@ Author: sksdesign and SMD
     <include name="mix7">./assets/MIX9.xml</include>
     <include name="mix8">./assets/MIX10.xml</include>
   </subset>
+  <!-- sksdesign and SMD © 2026 -->
 </theme>
-
-sksdesign and SMD © 2025

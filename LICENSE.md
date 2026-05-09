@@ -1,40 +1,109 @@
-# License
+\# Batocera Pulse Theme License
 
-Pulse Theme Copyright (c) 2026 complicatiion | sksdesign | sven404 
 
-Original ES-A-StarWars-Theme by: soaremicheledavid aka SMD
 
-## 1. Ownership & Copyright
-All wallpapers and various graphical assets in this repository were created by **complicatiion | sksdesign | sven404**. The author retains all moral and intellectual property rights to these original works.
-Assets used from ES-A-StarWars-Theme belongs to soaremicheledavid aka SMD.
-Additional assets such as various fonts and logos are owned by Google and Wikimedia and are available for free use.
+\*\*Copyright (c) 2026 complicatiion | sksdesign | sven404\*\* \*Based on the original "ES-A-StarWars-Theme" by soaremicheledavid (SMD).\*
 
-## 2. Permitted Use (CC BY-NC-SA 4.0)
-These assets are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
 
-To view a copy of this license, visit:
-http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-**Under this license, you are free to:**
-* **Share:** Copy and redistribute the material in any medium or format.
-* **Adapt:** Remix, transform, and build upon the material.
+\---
 
-**Under the following terms:**
-* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-* **Non-Commercial:** You may **NOT** use the material for commercial purposes (e.g., selling the pack, including it in paid handheld images/builds, or using it for advertising).
-* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-## 3. Batocera Community
-This Theme pack was specifically created for the **Batocera.linux community**. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
 
-## 4. Disclaimer of Warranty and Limitation of Liability
-This project is an independent creation and is **not** affiliated with, authorized, maintained, sponsored, or endorsed by the official **Batocera.linux** team or its affiliates. "Batocera" is the property of its respective trademark holders. This pack is provided "as-is" without any warranties.
+\## 1. Ownership \& Copyright
 
-To the maximum extent permitted by applicable law, the Software and any related materials are provided on an “AS IS” and “AS AVAILABLE” basis, without warranty of any kind, whether express, implied, statutory, or otherwise. This includes, without limitation, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-In no event shall the author or copyright holder be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, or use, whether in an action in contract, tort (including negligence), strict liability, or otherwise, arising out of or in any way connected with the use of or inability to use the Software, even if advised of the possibility of such damages.
 
-Where liability cannot be excluded or limited under applicable law, the author’s aggregate liability arising out of or in connection with the Software shall be limited to the amount, if any, actually paid by you for the license to use the Software.
+All moral and intellectual property rights for the contents of this repository are distributed as follows:
+
+
+
+\* \*\*Original Graphics:\*\* All wallpapers and graphical assets were created by \*\*complicatiion | sksdesign | sven404\*\*.
+
+\* \*\*Legacy Assets:\*\* Assets used from the \*ES-A-StarWars-Theme\* belong to \*\*soaremicheledavid (SMD)\*\*.
+
+\* \*\*Third-Party Assets:\*\* Included fonts and logos are owned by \*\*Google\*\* and \*\*Wikimedia\*\* and are used under their respective free-use terms.
+
+
+
+\---
+
+
+
+\## 2. Permitted Use (CC BY-NC-SA 4.0)
+
+
+
+This work is licensed under the \*\*Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License\*\*.
+
+
+
+\### Your Rights
+
+You are free to \*\*share\*\* (copy and redistribute the material in any medium or format) and \*\*adapt\*\* (remix, transform, and build upon the material).
+
+
+
+\### Terms of Use
+
+\* \*\*Attribution:\*\* You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+\* \*\*Non-Commercial:\*\* You may \*\*NOT\*\* use the material for commercial purposes (e.g., selling the pack, including it in paid handheld builds, or using it for advertising).
+
+\* \*\*ShareAlike:\*\* If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+
+
+> \*\*Full License Text:\*\* \[Creative Commons CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+\---
+
+
+
+\## 3. Batocera Community
+
+
+
+This theme pack was specifically created for the \*\*Batocera.linux community\*\*. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
+
+
+
+\---
+
+
+
+\## 4. Disclaimer of Warranty \& Limitation of Liability
+
+
+
+\### Disclaimer
+
+This project is an independent creation and is \*\*not\*\* affiliated with, authorized, maintained, sponsored, or endorsed by the official \*\*Batocera.linux\*\* team. "Batocera" is the property of its respective trademark holders.
+
+
+
+\### Warranty
+
+> The software is provided \*\*"AS IS"\*\*, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose.
+
+
+
+\### Limitation of Liability
+
+In no event shall the authors or copyright holders be liable for any indirect, incidental, or consequential damages (including loss of profits or data) arising out of the use or inability to use this software.
+
+
+
+\---
+
+
+
+
+
+
+
 
 
 
