@@ -1,5 +1,5 @@
 
-# Batocera Pulse Theme
+# Pulse Theme
 
 A playful, modern dark theme for **Batocera Linux** with a cozy visual style, colorful wallpapers, and clean UI elements designed for both readability and performance.
 
@@ -12,7 +12,7 @@ Pulse Theme gives your Batocera setup a modern and polished look while keeping n
 - Clean dark aesthetic that keeps the focus on your games
 - Playful custom icon set for added personality
 - 10 colorful wallpapers to rotate or set as your favorite
-- Readable typography and clear focus states
+- Sleek typography and clear focus states
 - Lightweight assets for smooth performance on low-power devices
 - 6 different gamelist background PNG styles
 
@@ -36,6 +36,7 @@ Tested with:
 - Batocera **v40**
 - Batocera **v41**
 - Batocera **v42**
+- Batocera **v43** (updated)
 
 Recommended resolution:
 
@@ -179,3 +180,8 @@ See also: `LICENSE.md`
 ## Enjoy
 
 Enjoy the mix of a minimal and playful theme.
+
+## Note
+
+This Theme is currently in active development!
+
